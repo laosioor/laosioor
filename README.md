@@ -12,19 +12,19 @@
 
 <div align="center">
   <a href="https://www.backloggd.com/games/notpron/">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4s5o.jpg" alt="NotPron" title="NotPron" width="150" height="270" />
+    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4s5o.jpg" alt="NotPron" title="NotPron" width="150" height="225" />
   </a>
   <a href="https://www.backloggd.com/games/outer-wilds/">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co65ac.jpg" alt="Outer Wilds" title="Outer Wilds" width="150" height="270" />
+    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co65ac.jpg" alt="Outer Wilds" title="Outer Wilds" width="150" height="225" />
   </a>
   <a href="https://www.backloggd.com/games/the-witness/">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3hih.jpg" alt="The Witness" title="The Witness" width="150" height="270" />
+    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3hih.jpg" alt="The Witness" title="The Witness" width="150" height="225" />
   </a>
   <a href="https://www.backloggd.com/games/disco-elysium/">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1sfj.jpg" alt="Disco Elysium" title="Disco Elysium" width="150" height="270" />
+    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1sfj.jpg" alt="Disco Elysium" title="Disco Elysium" width="150" height="225" />
   </a>
   <a href="https://www.backloggd.com/games/silent-hill-2/">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2vyg.jpg" alt="Silent Hill 2" title="Silent Hill 2" width="150" height="270" />
+    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2vyg.jpg" alt="Silent Hill 2" title="Silent Hill 2" width="150" height="225" />
   </a>
 </div>
 
