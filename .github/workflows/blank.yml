@@ -37,6 +37,3 @@ jobs:
             name: "backloggd.json"
             url: "https://backloggd-api.vercel.app/user/laosioor"
             dir: '/'
-
-      - name: Display Backloggd user
-        run: echo "Saved JSON file path: ${{ steps.BackloggdUser.outputs.file_path }}"
