@@ -3,13 +3,12 @@
 ### 📚 Estou cursando Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São João da Boa Vista
 ### 🤔 Tenho 19 anos e amo tudo sobre a área de tecnologia, com foco na parte de desenvolvimento
 ### 🩴 Sou um grande defensor do banho de chinelo
-### No meu tempo livre eu provavelmente vou estar:
+### 🕒 No meu tempo livre eu provavelmente vou estar:
   #### &emsp; 🎮 Jogando
   #### &emsp; 🍿 Assistindo algum filme ou série
   #### &emsp; 📖 Lendo alguma coisa
 
 ## Meus jogos favoritos são
-
 
 <div align="center">
     <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4s5o.jpg" alt="NotPron" title="NotPron" width="150" height="225" />
