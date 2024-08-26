@@ -11,11 +11,11 @@
 ## Meus jogos favoritos são
 
 <div align="center">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4s5o.jpg" alt="NotPron" title="NotPron" width="150" height="225" />
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co65ac.jpg" alt="Outer Wilds" title="Outer Wilds" width="150" height="225" />
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3hih.jpg" alt="The Witness" title="The Witness" width="150" height="225" />
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1sfj.jpg" alt="Disco Elysium" title="Disco Elysium" width="150" height="225" />
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2vyg.jpg" alt="Silent Hill 2" title="Silent Hill 2" width="150" height="225" />
+    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4s5o.jpg" alt="NotPron" title="NotPron" width="160" height="213" />
+    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co65ac.jpg" alt="Outer Wilds" title="Outer Wilds" width="160" height="213"  />
+    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3hih.jpg" alt="The Witness" title="The Witness" width="160" height="213"  />
+    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1sfj.jpg" alt="Disco Elysium" title="Disco Elysium" width="160" height="213"  />
+    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2vyg.jpg" alt="Silent Hill 2" title="Silent Hill 2" width="160" height="213"  />
 </div>
 
 
