@@ -8,11 +8,11 @@
   #### &emsp; 📖 Lendo alguma coisa
 
 ## Meus jogos favoritos são
-[![NotPron](https://images.igdb.com/igdb/image/upload/t_cover_big/co4s5o.jpg "NotPron")](https://www.backloggd.com/games/notpron/)
-[![Outer Wilds](https://images.igdb.com/igdb/image/upload/t_cover_big/co65ac.jpg "Outer Wilds")](https://www.backloggd.com/games/outer-wilds/)
-[![The Witness](https://images.igdb.com/igdb/image/upload/t_cover_big/co3hih.jpg "The Witness")](https://www.backloggd.com/games/the-witness/)
-[![Disco Elysium](https://images.igdb.com/igdb/image/upload/t_cover_big/co1sfj.jpg "Disco Elysium")](https://www.backloggd.com/games/disco-elysium/)
-[![Silent Hill 2](https://images.igdb.com/igdb/image/upload/t_cover_big/co2vyg.jpg "Silent Hill 2")](https://www.backloggd.com/games/silent-hill-2/)
+[![NotPron](https://images.igdb.com/igdb/image/upload/t_cover_small/co4s5o.jpg "NotPron")](https://www.backloggd.com/games/notpron/)
+[![Outer Wilds](https://images.igdb.com/igdb/image/upload/t_cover_small/co65ac.jpg "Outer Wilds")](https://www.backloggd.com/games/outer-wilds/)
+[![The Witness](https://images.igdb.com/igdb/image/upload/t_cover_small/co3hih.jpg "The Witness")](https://www.backloggd.com/games/the-witness/)
+[![Disco Elysium](https://images.igdb.com/igdb/image/upload/t_cover_small/co1sfj.jpg "Disco Elysium")](https://www.backloggd.com/games/disco-elysium/)
+[![Silent Hill 2](https://images.igdb.com/igdb/image/upload/t_cover_small/co2vyg.jpg "Silent Hill 2")](https://www.backloggd.com/games/silent-hill-2/)
 
 <!--
 **laosioor/laosioor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
