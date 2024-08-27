@@ -18,10 +18,17 @@
     <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2vyg.jpg" alt="Silent Hill 2" title="Silent Hill 2" width="160" height="213"  />
 </div>
 
+### Tecnologias que me interesso:
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-
-
-
+### Meus stats:
+![laosioor's GitHub stats](https://github-readme-stats.vercel.app/api?username=laosioor&show_icons=true&theme=jolly)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=laosioor&theme=jolly&locale=pt_BR)](https://git.io/streak-stats)
 <!--
 **laosioor/laosioor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
