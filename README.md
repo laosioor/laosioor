@@ -1,4 +1,4 @@
-# Oie, meu nome é Aloísio 🫨
+# Oi, meu nome é Aloísio 🫨
 
 ### 📚 Estou cursando Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São João da Boa Vista
 ### 🤔 Tenho 19 anos e amo tudo sobre a área de tecnologia, com foco na parte de desenvolvimento
