@@ -23,7 +23,7 @@
 
 ## Meus stats:
 ![laosioor's GitHub stats](https://github-readme-stats.vercel.app/api?username=laosioor&show_icons=true&theme=jolly)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=laosioor&theme=jolly&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=laosioor&theme=jolly)](https://git.io/streak-stats)
 
 <!--
 ## Meus jogos favoritos são
