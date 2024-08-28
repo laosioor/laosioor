@@ -25,6 +25,7 @@
 ![laosioor's GitHub stats](https://github-readme-stats.vercel.app/api?username=laosioor&show_icons=true&theme=jolly)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=laosioor&theme=jolly&locale=pt_BR)](https://git.io/streak-stats)
 
+<!--
 ## Meus jogos favoritos são
 
 <div align="center">
@@ -34,3 +35,4 @@
     <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1sfj.jpg" alt="Disco Elysium" title="Disco Elysium" width="160" height="213"  />
     <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2vyg.jpg" alt="Silent Hill 2" title="Silent Hill 2" width="160" height="213"  />
 </div>
+!-->
