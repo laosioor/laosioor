@@ -27,7 +27,6 @@
 [![Backloggd](https://custom-icon-badges.demolab.com/badge/-Backloggd-291b3e?style=for-the-badge&logo=backloggd)](https://backloggd.com/u/laosioor)
 [![Letterboxd](https://custom-icon-badges.demolab.com/badge/-Letterboxd-291b3e?style=for-the-badge&logo=letterboxd&logoColor=ff64da)](https://letterboxd.com/laosioor)
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=ff64da)](https://www.linkedin.com/in/alo%C3%ADsio-marques-lingo-filho-69364220a/)
-
 !-->
 
 
