@@ -9,6 +9,7 @@
   #### &emsp; 📖 Lendo alguma coisa
   
 ## Minhas redes sociais
+<div align="center">
 <a href="https://www.backloggd.com/u/laosioor">
   <img src="https://custom-icon-badges.demolab.com/badge/-Backloggd-291b3e?style=for-the-badge&logo=backloggd" height="50" />
 </a>
@@ -20,10 +21,16 @@
 <a href="https://www.linkedin.com/in/alo%C3%ADsio-marques-lingo-filho-69364220a">
   <img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=ff64da" height="50" />
 </a>
+</div>
 
+<!--
 [![Backloggd](https://custom-icon-badges.demolab.com/badge/-Backloggd-291b3e?style=for-the-badge&logo=backloggd)](https://backloggd.com/u/laosioor)
 [![Letterboxd](https://custom-icon-badges.demolab.com/badge/-Letterboxd-291b3e?style=for-the-badge&logo=letterboxd&logoColor=ff64da)](https://letterboxd.com/laosioor)
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=ff64da)](https://www.linkedin.com/in/alo%C3%ADsio-marques-lingo-filho-69364220a/)
+
+!-->
+
+
 ## Tecnologias que me interesso
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=ff64da&style=for-the-badge&color=291b3e)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=ff64da&color=291b3e)
