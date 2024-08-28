@@ -24,7 +24,7 @@
 ## Meus stats
 <!-- pra deixar alinhado bonitinho -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=laosioor&theme=jolly" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=laosioor&theme=jolly&card_width=120" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laosioor&layout=compact&langs_count=8&card_width=120&theme=jolly" />
