@@ -4,9 +4,9 @@
 ### 🤔 Tenho 19 anos e amo a área de tecnologia, com foco na parte de desenvolvimento
 ### 🩴 Sou um grande defensor do banho de chinelo
 ### 🕒 No meu tempo livre eu provavelmente vou estar:
-  #### &emsp; 🎮 Jogando
-  #### &emsp; 🍿 Assistindo algum filme ou série
-  #### &emsp; 📖 Lendo alguma coisa
+  #### &emsp;&emsp; 🎮 Jogando
+  #### &emsp;&emsp; 🍿 Assistindo algum filme ou série
+  #### &emsp;&emsp; 📖 Lendo alguma coisa
   
 ## Minhas redes sociais
 <div align="center">
