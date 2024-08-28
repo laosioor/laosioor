@@ -11,15 +11,15 @@
 ## Minhas redes sociais
 <div align="center">
 <a href="https://www.backloggd.com/u/laosioor">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Backloggd-291b3e?style=for-the-badge&logo=backloggd" height="50" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Backloggd-291b3e?style=for-the-badge&logo=backloggd" height="40" />
 </a>
 
 <a href="https://www.letterboxd.com/laosioor">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Letterboxd-291b3e?style=for-the-badge&logo=letterboxd&logoColor=ff64da" height="50" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Letterboxd-291b3e?style=for-the-badge&logo=letterboxd&logoColor=ff64da" height="40" />
 </a>
 
 <a href="https://www.linkedin.com/in/alo%C3%ADsio-marques-lingo-filho-69364220a">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=ff64da" height="50" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=ff64da" height="40" />
 </a>
 </div>
 
