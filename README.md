@@ -7,11 +7,11 @@
   #### &emsp; 🎮 Jogando
   #### &emsp; 🍿 Assistindo algum filme ou série
   #### &emsp; 📖 Lendo alguma coisa
-
+  
 ## Minhas redes sociais
 [![Backloggd](https://custom-icon-badges.demolab.com/badge/-Backloggd-291b3e?style=for-the-badge&logo=backloggd)](https://backloggd.com/u/laosioor)
 [![Letterboxd](https://custom-icon-badges.demolab.com/badge/-Letterboxd-291b3e?style=for-the-badge&logo=letterboxd&logoColor=ff64da)](https://letterboxd.com/laosioor)
-
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=ff64da)](https://www.linkedin.com/in/alo%C3%ADsio-marques-lingo-filho-69364220a/)
 ## Tecnologias que me interesso
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=ff64da&style=for-the-badge&color=291b3e)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=ff64da&color=291b3e)
@@ -22,9 +22,21 @@
 
 
 ## Meus stats
-![laosioor's GitHub stats](https://github-readme-stats.vercel.app/api?username=laosioor&show_icons=true&theme=jolly)
+<!-- pra deixar alinhado bonitinho -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=laosioor&theme=jolly" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laosioor&layout=compact&langs_count=8&card_width=320&theme=jolly" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=laosioor&theme=jolly" />
+<a>
+<!--
+[![laosioor's GitHub stats](https://github-readme-stats.vercel.app/api?username=laosioor&show_icons=true&theme=jolly)](https://github.com/laosioor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laosioor&theme=jolly)](https://github.com/laosioor)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=laosioor&theme=jolly)](https://git.io/streak-stats)
-
+!--> 
 <!--
 ## Meus jogos favoritos são
 
