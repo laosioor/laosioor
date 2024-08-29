@@ -3,12 +3,10 @@
 ### 📚 Estou cursando Ciência da Computação no IFSP, Campus São João da Boa Vista
 ### 🤔 Tenho 19 anos e amo a área de tecnologia, com foco na parte de desenvolvimento
 ### 🩴 Sou um grande defensor do banho de chinelo
-### 🕒 No meu tempo livre eu provavelmente vou estar:
-  #### &emsp;&emsp; 🎮 Jogando
-  #### &emsp;&emsp; 🍿 Assistindo algum filme ou série
-  #### &emsp;&emsp; 📖 Lendo alguma coisa
-  
-## Minhas redes sociais
+
+<br>
+
+## Eu em outros lugares
 <div align="center">
 <a href="https://www.backloggd.com/u/laosioor">
   <img src="https://custom-icon-badges.demolab.com/badge/-Backloggd-291b3e?style=for-the-badge&logo=backloggd" height="40" />
@@ -21,7 +19,14 @@
 <a href="https://www.linkedin.com/in/alo%C3%ADsio-marques-lingo-filho-69364220a">
   <img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=ff64da" height="40" />
 </a>
+
+<a href="https://open.spotify.com/user/56oqu5qugr1z97zyz09n19aad?si=ecd1220577ad4c1a">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Spotify-291b3e?style=for-the-badge&logo=spotify&logoColor=ff64da" height="40" />
+</a>
 </div>
+
+
+
 
 <!--
 [![Backloggd](https://custom-icon-badges.demolab.com/badge/-Backloggd-291b3e?style=for-the-badge&logo=backloggd)](https://backloggd.com/u/laosioor)
