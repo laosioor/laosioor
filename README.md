@@ -20,6 +20,10 @@
   <img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-291b3e?style=for-the-badge&logo=linkedin&logoColor=ff64da" height="40" />
 </a>
 
+<a href="https://psnprofiles.com/laosioor">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Playstation-291b3e?style=for-the-badge&logo=playstation&logoColor=ff64da" height="40" />
+</a>
+
 <a href="https://open.spotify.com/user/56oqu5qugr1z97zyz09n19aad?si=ecd1220577ad4c1a">
   <img src="https://custom-icon-badges.demolab.com/badge/-Spotify-291b3e?style=for-the-badge&logo=spotify&logoColor=ff64da" height="40" />
 </a>
