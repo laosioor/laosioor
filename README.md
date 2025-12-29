@@ -1,8 +1,7 @@
 # Oi, meu nome é Aloísio 🫨
 
 ### 📚 Estou cursando Ciência da Computação no IFSP, Campus São João da Boa Vista
-### 🤔 Tenho 20 anos e amo a área de tecnologia, com foco na parte de desenvolvimento Back-End e Ciência de Dados
-### 🩴 Sou um grande defensor do banho de chinelo
+### 🤔 Tenho 21 anos e amo a área de tecnologia, com foco na parte de desenvolvimento Back-End, Interação Humano-Computador e Ciência de Dados
 
 <br>
 
