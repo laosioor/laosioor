@@ -1,11 +1,11 @@
-# Oi, meu nome é Aloísio 🫨
+# Hello, you can call me Aloísio 🫨
 
-### 📚 Estou cursando Ciência da Computação no IFSP, Campus São João da Boa Vista
-### 🤔 Tenho 21 anos e amo a área de tecnologia, com foco na parte de Desenvolvimento Web Full-Stack, Interação Humano-Computador e Ciência de Dados
+### 📚 I am studying Computer Science at IFSP, São João da Boa Vista Campus
+### 🤔 I am 21 years old and I love the technology field, with a focus on Full-Stack Web Development, Human-Computer Interaction, and Data Science
 
 <br>
 
-## Eu em outros lugares
+## Me elsewhere
 <div align="center">
   
 <a href="https://www.backloggd.com/u/laosioor"><img src="https://custom-icon-badges.demolab.com/badge/-Backloggd-291b3e?style=for-the-badge&logo=backloggd" height="40" /></a>
@@ -17,7 +17,7 @@
 
 </div>
 
-## Tecnologias que me interesso
+## Tech I'm interested in
 
 <div align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=ff64da&style=for-the-badge&color=291b3e" height="40" />
@@ -27,13 +27,13 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=ff64da&color=291b3e" height="40" />
 </div>
 
-## Meus stats
+## Stats
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/laosioor">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=laosioor&theme=jolly" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/laosioor">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laosioor&layout=compact&langs_count=8&card_width=320&theme=jolly" />
 </a>
 </div>
